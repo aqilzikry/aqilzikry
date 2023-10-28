@@ -20,7 +20,7 @@
 ## 🙋‍♂️ Connect with me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/aqilzikry/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aqilzikry-arman"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 
