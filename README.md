@@ -7,7 +7,7 @@
 * 💻 I'm a full stack web developer
 * 🎨 I'm a self-taught UI/UX designer
 * 📱 I make apps for Web, Android and iOS
-* 🌐 You can view my personal mebsite at [my portfolio](https://aqilzikry.github.io)
+* 🌐 You can view my personal mebsite at [https://aqilzikry.github.io](https://aqilzikry.github.io).
 
 ## 🔥 My contribution streak
 
