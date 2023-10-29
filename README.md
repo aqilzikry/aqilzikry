@@ -33,24 +33,29 @@
 &emsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
-![HCL](https://img.shields.io/badge/-HCL-000?&logo=HCL)
-![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![Java](https://img.shields.io/badge/-Java-000)
+![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
 ### Frontend development:
 &emsp;
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
-![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI)
+![Astro](https://img.shields.io/badge/-Astro-000?&logo=Astro)
+![TailwindCss](https://img.shields.io/badge/-Tailwind-000?&logo=tailwindcss)
+![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=MUI)
 ![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-000?&logo=Chakra-UI)
+![Mantine UI](https://img.shields.io/badge/-Mantine-000?&logo=Mantine)
 ![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ### Misc tools:
 &emsp;
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![SVN](https://img.shields.io/badge/-SVN-000?&logo=subversion)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
@@ -65,14 +70,12 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
 
 ### SRE & DevOps:
 &emsp;
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
 ![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
 ![Apache](https://img.shields.io/badge/-Apache-000?&logo=Apache)
 
