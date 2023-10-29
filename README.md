@@ -84,7 +84,7 @@
 <details>
   <summary>📊 GitHub Profile Stats</summary>
   <br/>
-  <a href="https://github.com/aqilzikry/github-readme-stats"><img alt="Aqilzikry's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aqilzikry&show_icons=true&count_private=true&hide=" /></a>
+  <a href="https://github.com/aqilzikry/github-readme-stats"><img alt="Aqilzikry's Github Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aqilzikry&show_icons=true&include_all_commits=true&count_private=true" /></a>
 </details>
 
 <details> 
