@@ -10,17 +10,21 @@
 * 🌐 You can view my personal mebsite at [https://aqilzikry.github.io](https://aqilzikry.github.io).
 
 &emsp;
-## 🔥 My contribution streak
-<p align="center">
-  <a href="https://github.com/aqilzikry/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aqilzikry#version3"/>
-  </a>
-</p>
+## 📈 Github Stats
 
-&emsp;
-## 🙋‍♂️ Connect with me:
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Repository](https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=addthis&logoColor=white)
+<details>
+  <summary>📊 GitHub Profile Stats</summary>
+  <br/>
+  <a href="https://github.com/aqilzikry/github-readme-stats"><img alt="Aqilzikry's Github Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aqilzikry&show_icons=true&include_all_commits=true&count_private=true" /></a>
+</details>
+
+<details> 
+  <summary>💻 Most used languages</summary>
+  <br/>
+  <a href="https://github.com/aqilzikry/github-readme-stats"><img alt="Aqilzikry's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqilzikry&langs_count=10&layout=compact#" /></a>
+  <br/>
+  <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
+</details>
 
 &emsp;
 ## 👨‍💻 Languages and Tools:
@@ -77,18 +81,6 @@
 ![Apache](https://img.shields.io/badge/-Apache-000?&logo=Apache)
 
 &emsp;
-## 📈 Github Stats
-
-<details>
-  <summary>📊 GitHub Profile Stats</summary>
-  <br/>
-  <a href="https://github.com/aqilzikry/github-readme-stats"><img alt="Aqilzikry's Github Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aqilzikry&show_icons=true&include_all_commits=true&count_private=true" /></a>
-</details>
-
-<details> 
-  <summary>💻 Most used languages</summary>
-  <br/>
-  <a href="https://github.com/aqilzikry/github-readme-stats"><img alt="Aqilzikry's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqilzikry&langs_count=10&layout=compact#" /></a>
-  <br/>
-  <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
-</details>
+## 🙋‍♂️ Connect with me:
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Repository](https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=addthis&logoColor=white)
